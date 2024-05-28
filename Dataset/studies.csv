@@ -1,0 +1,573 @@
+id|fk_reference_document_id|fk_extraction_document_id|fk_dosed_chemical_id|test_substance_name_original|dose_level_normalized|dose_level_original|dose_level_original_units|administration_route_original|administration_route_normalized|dose_duration|dose_frequency|dose_vehicle|dose_volume|fasting_period|curator_comment
+1||229|124|pyrene|200|200|mg/m^3|inhalation|inhalation|95 min|||||free pyrene concentrations available from same source
+2||229|124|pyrene|500|500|mg/m^3|inhalation|inhalation|95 min|||||free pyrene concentrations available from same source
+3||229|124|pyrene|800|800|mg/m^3|inhalation|inhalation|95 min|||||free pyrene concentrations available from same source
+4||230|125|octane||1000|ppm|inhalation|inhalation|2 hr|||||other tissue concentrations available from same figure
+5||230|125|octane||5000|ppm|inhalation|inhalation|2 hr|||||other tissue concentrations available from same figure
+6||231|126|ethylbenzene||50|ppm|inhalation|inhalation|4 hr|||||
+7||231|126|ethylbenzene||33|ppm|inhalation|inhalation|7 hr|||||
+8||232|127|chloroform|488.2617586912066|100|ppm|inhalation|inhalation|360 min|||||other tissue concentrations available from same figure
+9||233|128|1,1-dichloroethylene|99.12065439672801|25|ppm|inhalation|inhalation|3 hr|||||alveolar concentrations available from same source
+10||233|128|1,1-dichloroethylene|297.36196319018404|75|ppm|inhalation|inhalation|3 hr|||||alveolar concentrations available from same source
+11||233|128|1,1-dichloroethylene|594.7239263803681|150|ppm|inhalation|inhalation|3 hr|||||alveolar concentrations available from same source
+12||233|128|1,1-dichloroethylene|1189.4478527607362|300|ppm|inhalation|inhalation|3 hr|||||alveolar concentrations available from same source
+13||233|128|1,1-dichloroethylene|99.12065439672801|25|ppm|inhalation|inhalation|3 hr|||||alveolar concentrations available from same source
+14||233|128|1,1-dichloroethylene|297.36196319018404|75|ppm|inhalation|inhalation|3 hr|||||alveolar concentrations available from same source
+15||233|128|1,1-dichloroethylene|594.7239263803681|150|ppm|inhalation|inhalation|3 hr|||||alveolar concentrations available from same source
+16||233|128|1,1-dichloroethylene|1189.4478527607362|300|ppm|inhalation|inhalation|3 hr|||||alveolar concentrations available from same source
+17||234|129|vinyl chloride||2.5|ppm|inhalation|inhalation|0.25 hr|||||
+18||234|129|vinyl chloride||2.5|ppm|inhalation|inhalation|0.5 hr|||||
+19||235|130|tetrahydrofuran||150|ppm|inhalation|inhalation|4 hr|||||
+20||236|131|nonane||100|ppm|inhalation|inhalation|4 hr|||||
+21||236|131|nonane||500|ppm|inhalation|inhalation|4 hr|||||
+22||236|131|nonane||1000|ppm|inhalation|inhalation|4 hr|||||
+23||237|132|N-methyl-2-pyrrolidone|10|10|mg/m^3|inhalation|inhalation|6 hr 10min|||||other data available from same source
+24||237|132|N-methyl-2-pyrrolidone|40|40|mg/m^3|inhalation|inhalation|6 hr 10min|||||other data available from same source
+25||237|132|N-methyl-2-pyrrolidone|80|80|mg/m^3|inhalation|inhalation|6 hr 10min|||||other data available from same source
+26||237|132|N-methyl-2-pyrrolidone|10|10|mg/m^3|inhalation|inhalation|8 hr|||||other data available from same source
+27||237|132|N-methyl-2-pyrrolidone|24|24|mg/m^3|inhalation|inhalation|8 hr|||||other data available from same source
+28||237|132|N-methyl-2-pyrrolidone|53|53|mg/m^3|inhalation|inhalation|8 hr|||||other data available from same source
+29||238|22|n-hexane||3000|ppm|inhalation|inhalation|6 hr|||||
+30||239|133|furan||52|ppm|inhalation|inhalation|4 hr|||||other tissue concentrations available from same figure
+31||239|133|furan||107|ppm|inhalation|inhalation|4 hr|||||other tissue concentrations available from same figure
+32||239|133|furan||208|ppm|inhalation|inhalation|4 hr|||||other tissue concentrations available from same figure
+33||240|134|hexachloroethane||53.3|ppm|inhalation|inhalation|6 hr|||||data from 2 individual rats
+34||241|135|ethanol|235.5316973415133|125|ppm|inhalation|inhalation|4 hr|||||other data available from same source
+35||241|135|ethanol|471.0633946830266|250|ppm|inhalation|inhalation|4 hr|||||other data available from same source
+36||241|135|ethanol|847.9141104294479|450|ppm|inhalation|inhalation|4 hr|||||other data available from same source
+37||241|135|ethanol|1413.1901840490798|750|ppm|inhalation|inhalation|4 hr|||||other data available from same source
+38||241|135|ethanol|1884.2535787321065|1000|ppm|inhalation|inhalation|4 hr|||||other data available from same source
+39||242|136|decane|6983.558282208589|1200|ppm|inhalation|inhalation|4 hr|||||other tissue concentrations available from same figure
+40||243|137|chlorobenzene|46.03680981595092|10|ppm|inhalation|inhalation|8 hr|||||data expressed as real time (e.g. exposure time + time after exposure)
+41||244|138|carbon tetrachloride|629.120654396728|100|ppm|inhalation|inhalation|120 min|||||
+42||244|138|carbon tetrachloride|6291.206543967281|1000|ppm|inhalation|inhalation|120 min|||||
+43||245|26|acrylonitrile|403.6466257668712|186|ppm|inhalation|inhalation|3 hr|||||
+44||245|26|acrylonitrile|551.2163599182004|254|ppm|inhalation|inhalation|3 hr|||||
+45||245|26|acrylonitrile|631.5116564417178|291|ppm|inhalation|inhalation|3 hr|||||
+46||246|139|2-butoxyethanol|96.66257668711657|20|ppm|inhalation|inhalation|2 hr|||||other data available from same source
+47||247|140|1,3-butadiene|11.06167689161554|5|ppm|inhalation|inhalation|120 min|||||other data available from same source
+48|251|247|140|1,3-butadiene|139.37712883435583|63|ppm|inhalation|inhalation|6 hr|||||other data available from same source
+49|251|247|140|1,3-butadiene|1362.798593047035|616|ppm|inhalation|inhalation|6 hr|||||other data available from same source
+50|251|247|140|1,3-butadiene|2763.2068875255623|1249|ppm|inhalation|inhalation|6 hr|||||other data available from same source
+51||248|10|1,2-dichloroethane||50|ppm|inhalation|inhalation|6 hr|||||
+52||248|10|1,2-dichloroethane||250|ppm|inhalation|inhalation|6 hr|||||
+53||248|10|1,2-dichloroethane||150|ppm|inhalation|inhalation|6 hr|||||
+54||248|10|1,2-dichloroethane||200|ppm|inhalation|inhalation|6 hr|||||
+55||249|141|1,2,4-trimethylbenzene|9.831492842535788|2|ppm|inhalation|inhalation|2 hr|||||
+56||249|141|1,2,4-trimethylbenzene|9.831492842535788|2|ppm|inhalation|inhalation|2 hr|||||
+57||249|141|1,2,4-trimethylbenzene|122.89366053169735|25|ppm|inhalation|inhalation|2 hr|||||
+58||249|141|1,2,4-trimethylbenzene|122.89366053169735|25|ppm|inhalation|inhalation|2 hr|||||
+59||240|142|1,1,2-trichloroethane|2733.472392638037|501|ppm|inhalation|inhalation|6 hr|||||
+60||240|143|1,1,2,2-tetrachloroethane|2402.7321063394684|350|ppm|inhalation|inhalation|6 hr|||||
+61||240|143|1,1,1,2-tetrachloroethane|2416.46200408998|352|ppm|inhalation|inhalation|6 hr|||||
+62||250|144|isopropanol||100|ppm|inhalation|inhalation|10 hr|||||
+64||244|144|isopropanol||476|ppm|inhalation|inhalation|360 min|||||
+65||244|144|isopropanol||4960|ppm|inhalation|inhalation|360 min|||||
+1157||66|1|Solvent red1|20|20|mg/kg|gavage|oral||1|edible oil||overnight|
+1158||49|2|musk moskene||400|ug/L embryo medium|immersion|dermal|10 days|1/day||||
+1159||65|3|1-(1,2,3,4,5,6,7,8-octahydro-2,3,8,8-tetramethyl-2-naphthalenyl)ethanone|20|20|mg/kg|gavage|oral||1|0.9% saline:Alkamulus EL-620/L (9:1)||not fasted|
+1160||65|3|1-(1,2,3,4,5,6,7,8-octahydro-2,3,8,8-tetramethyl-2-naphthalenyl)ethanone|55|55|mg/kg|dermal|dermal||1||||
+1161||65|3|1-(1,2,3,4,5,6,7,8-octahydro-2,3,8,8-tetramethyl-2-naphthalenyl)ethanone|550|550|mg/kg|dermal|dermal||1||||
+1162||28|4|hexachlorocyclohexane|25|25|mg/kg|feed|oral||1/day|||not fasted|
+1163||67|5|phenacetin|10|10|mg/kg|gavage|oral||1|corn oil||not reported|
+1164||32|5|phenacetin|1|1|mg/kg|iv|iv|5 min|1||||
+1165||60|6|p-tert-octylphenol|2|2|mg/kg|iv|iv||1|||not fasted|
+1166||60|6|p-tert-octylphenol|4|4|mg/kg|iv|iv||1||||
+1167||60|6|p-tert-octylphenol|8|8|mg/kg|iv|iv||1||||
+1168||60|6|p-tert-octylphenol|50|50|mg/kg|oral|oral||1|||not fasted|
+1169||60|6|p-tert-octylphenol|125|125|mg/kg|oral|oral||1|not reported||not fasted|
+1170||60|6|p-tert-octylphenol|250|250|mg/kg|oral|oral||1|not reported||not fasted|
+1172||60|6|p-tert-octylphenol|125|125|mg/kg|subcutaneous|||1|||not fasted|
+1173||14|5|phenacetin|3.378378|250|mg|IV|iv||1|250 mg phenacetin, 15 mg maize starch, 2.5 mg Pharmacoat, 17.5 mg Avicel, 4.5 mg talcum, 0.5 mg Mg stearate||empty stomach, served with 2 cups tea & 2 pieces unbuttered toast|
+1175||14|5|phenacetin|3.378378|0.25|g|oral|oral||1|250 mg phenacetin, 15 mg maize starch, 2.5 mg Pharmacoat, 17.5 mg Avicel, 4.5 mg talcum, 0.5 mg Mg stearate||empty stomach, served with 2 cups tea & 2 pieces unbuttered toast|
+1176||14|5|phenacetin|13.51351|1|g|oral|oral||1|250 mg phenacetin, 15 mg maize starch, 2.5 mg Pharmacoat, 17.5 mg Avicel, 4.5 mg talcum, 0.5 mg Mg stearate||empty stomach, served with 2 cups tea & 2 pieces unbuttered toast|
+1177||63|5|phenacetin|360|360|mg/kg|oral|oral||1|not reported||not fasted|
+1178||1|5|phenacetin|250|250|mg/kg|oral|oral||1|ground (<90 um), suspended in 4% Tween 80||"starved"|
+1179||62|5|phenacetin|250|250|mg/kg|oral|oral||1|9% solutol||not fasted|
+1180||61|7|propylparaben|100|100|mg/kg|gavage|oral||1|not reported|4 mL/kg|overnight prior, 4 hr after|
+1181||61|7|propylparaben|100|100|mg/kg|dermal|dermal|6 hr|1||||
+1182||61|8|butylparaben|100|100|mg/kg|gavage|oral||1|not reported|4 mL/kg|overnight prior, 4 hr after|
+1183||61|8|butylparaben|100|100|mg/kg|subcutaneous|||1||||
+1184||61|8|butylparaben|100|100|mg/kg|dermal|dermal||1||||
+1185||64|7|propylparaben|3|3|mg/kg|gavage|oral||1|1% hydroxyethylcellulose|10 mL/kg|not fasted|
+1186||64|7|propylparaben|10|10|mg/kg|gavage|oral||1|1% hydroxyethylcellulose|10 mL/kg|not fasted|
+1187||64|7|propylparaben|100|100|mg/kg|gavage|oral||1|1% hydroxyethylcellulose|10 mL/kg|not fasted|
+1188||64|7|propylparaben|1000|1000|mg/kg|gavage|oral||1|1% hydroxyethylcellulose|10 mL/kg|not fasted|
+1189||18|9|methylene chloride|125|125|mg/kg|gavage|oral||1|water||overnight|
+1190||18|9|methylene chloride|125|125|mg/kg|gavage|oral||1|corn oil||not reported|
+1191||18|10|1,2-Dichloroethane|100|100|mg/kg|gavage|oral||1|water||overnight|
+1192||18|10|1,2-Dichloroethane|100|100|mg/kg|gavage|oral||1|corn oil||not reported|
+1193||18|11|trichloroethylene|18|18|mg/kg|gavage|oral||1|water||overnight|
+1194||18|11|trichloroethylene|6|6|mg/kg|gavage|oral||1|water||overnight|
+1195||19|12|benzene|606.9897750511248|190|ppm|inhalation|inhalation|6 hr|||||
+1196||20|11|trichloroethylene||50|ppm|inhalation|inhalation|2 hr|||||
+1197||20|11|trichloroethylene||500|ppm|inhalation|inhalation|2 hr|||||
+1198||24|13|1,4-Dioxane|1000|1000|mg/kg|iv|iv||1||||
+1199||24|13|1,4-Dioxane|300|300|mg/kg|iv|iv||1||||
+1200||24|13|1,4-Dioxane|100|100|mg/kg|iv|iv||1||||
+1201||24|13|1,4-Dioxane|30|30|mg/kg|iv|iv||1||||
+1202||16|12|benzene|30|30|mg/m^3|inhalation|inhalation|4 hr|||||
+1204||16|12|benzene|5.2|5.2|mg/m^3|inhalation|inhalation|4 hr|||||
+1206||10|13|1,4-dioxane|180.1840490797546|50|ppm|inhalation|inhalation|6 hr|||||
+1207||6|13|1,4-dioxane|1000|1000|mg/kg|iv|iv||1||||
+1208||6|13|1,4-dioxane|300|300|mg/kg|iv|iv||1||||
+1209||6|13|1,4-dioxane|100|100|mg/kg|iv|iv||1||||
+1210||6|13|1,4-dioxane|30|30|mg/kg|iv|iv||1||||
+1211||6|13|1,4-dioxane|10|10|mg/kg|iv|iv||1||||
+1212||6|13|1,4-dioxane|3|3|mg/kg|iv|iv||1||||
+1217||56|13|1,4-Dioxane|2000|2000|mg/kg|gavage|oral||1|water||not reported|
+1218||56|13|1,4-Dioxane|200|200|mg/kg|gavage|oral||1|water||not reported|
+1219||7|14|styrene||80|ppm|inhalation|inhalation|6 hr|||||
+1223||36|15|benzo(a)pyrene|0.055556|10|ug|iv|iv||1||||
+1224||53|15|benzo[a]pyrene|15|15|mg/kg|gavage|oral||1|corn oil||not fasted|
+1225||38|15|benzo(a)pyrene|0.118081|117|nmol|intra-arterial|iv||1||||
+1226||50|15|benzo[a]pyrene|0.1|100|ug/m^3|inhalation|inhalation|4 hr|||||
+1227||50|15|benzo[a]pyrene|0.1|0.1|mg/m^3|inhalation|inhalation|4 hr|||||
+1228||50|15|benzo[a]pyrene|1|1|mg/m^3|inhalation|inhalation|4 hr|||||
+1229||50|15|benzo[a]pyrene|2.5|2.5|mg/m^3|inhalation|inhalation|4 hr|||||
+1230||128|15|benzo(a)pyrene|20|20|mg/kg|ip|iv||1||||
+1231||15|15|benzo[a]pyrene|200|200|mg/kg|ip|iv||1||||
+1232||33|15|[3H]benzo(a)pyrene|0.001|1|ug/kg|intratracheal|inhalation||1||||
+1233||58|15|benzo(a)pyrene|0.05|0.05|mg/kg|iv|iv||1||||
+1234||58|15|benzo(a)pyrene|0.01|0.01|mg/kg|iv|iv||1||||
+1235||58|15|benzo[a]pyrene||70|ug|dermal|dermal|continuous|1||||
+1237||59|15|benzo(a)pyrene|10.0924|40|umol/kg|iv|iv||1||||
+1238||46|15|benzo[a]pyrene|2|2|mg/kg|iv|iv||1||||
+1239||46|15|benzo[a]pyrene|6|6|mg/kg|iv|iv||1||||
+1240||46|15|benzo[a]pyrene|15|15|mg/kg|iv|iv||1||||
+1241||40|15|benzo[a]pyrene|2.5231|10|umol/kg|dermal|dermal|continuous|1/day for 3 days|olive oil||not fasted|
+1242||40|15|benzo[a]pyrene|5.0462|20|umol/kg|dermal|dermal|continuous|1/day for 3 days|olive oil||not fasted|
+1243||40|15|benzo[a]pyrene|12.6155|50|umol/kg|dermal|dermal|continuous|1/day for 3 days|olive oil||not fasted|
+1244||40|15|benzo[a]pyrene|2.5231|10|umol/kg|gavage|oral||1/day for 3 days|olive oil||not fasted|
+1245||40|15|benzo[a]pyrene|5.0462|20|umol/kg|gavage|oral||1/day for 3 days|olive oil||not fasted|
+1246||40|15|benzo[a]pyrene|12.6155|50|umol/kg|gavage|oral||1/day for 3 days|olive oil||not fasted|
+1247||54|15|benzo[a]pyrene|2|2|mg/kg|iv|iv||1||||
+1248||54|15|benzo[a]pyrene|20|20|mg/kg|gavage|oral||1|peanut oil||not reported|
+1249||54|15|benzo[a]pyrene|1|1|mg/kg|iv|iv||1||||
+1250||31|15|benzo[a]pyrene|0.001129|1.70|nmol|iv|iv||1|dissolved in Krebs-Ringer bicarbonate buffer containing 4% BSA||12 hr|
+1251||31|15|benzo[a]pyrene|0.002125|3.20|nmol|gavage|oral||1|not reported (peanut oil?)||12 hr|
+1252||31|15|benzo[a]pyrene|0.002656|4|nmol|gavage|oral||1|not reported (peanut oil?)||12 hr|
+1253||17|16|methanol||200|ppm|inhalation|inhalation|6 hr|||||
+1254||17|16|methanol||1200|ppm|inhalation|inhalation|6 hr|||||
+1255||17|16|methanol||2000|ppm|inhalation|inhalation|6 hr|||||
+1256||17|16|methanol|100|100|mg/kg|iv|iv||||||
+1260||22|9|dichloromethane|710.9611451942741|100|ppm|inhalation|inhalation|6 hr|||||
+1261||22|9|dichloromethane|2488.3640081799595|350|ppm|inhalation|inhalation|6 hr|||||
+1262||23|11|trichloroethylene||600|ppm|inhalation|inhalation|4 hr|||||
+1263||23|11|trichloroethylene||529|ppm|inhalation|inhalation|4 hr|||||
+1264||23|11|trichloroethylene||505|ppm|inhalation|inhalation|4 hr|||||
+1265||23|11|trichloroethylene||297|ppm|inhalation|inhalation|4 hr|||||
+1266||23|11|trichloroethylene||368|ppm|inhalation|inhalation|4 hr|||||
+1267||23|11|trichloroethylene||748|ppm|inhalation|inhalation|4 hr|||||
+1268||23|11|trichloroethylene||110|ppm|inhalation|inhalation|4 hr|||||
+1269||23|11|trichloroethylene||236|ppm|inhalation|inhalation|4 hr|||||
+1270||23|11|trichloroethylene||889|ppm|inhalation|inhalation|4 hr|||||
+1271||23|11|trichloroethylene||42|ppm|inhalation|inhalation|4 hr|||||
+1272||25|17|methylethylketone||400|ppm|inhalation|inhalation|4 hr|||||
+1273||25|17|methylethylketone||200|ppm|inhalation|inhalation|4 hr|||||
+1274||25|17|methylethylketone||25|ppm|inhalation|inhalation|4 hr|||||
+1275||26|11|trichloroethylene||600.4|ppm|inhalation|inhalation|4 hr|||||
+1276||26|11|trichloroethylene||600|ppm|inhalation|inhalation|4 hr|||||
+1277||27|14|styrene||3000|ppm|dermal vapor|dermal|4 hr|||||
+1278||27|18|m-xylene||5000|ppm|dermal vapor|dermal|4 hr|||||
+1279||27|19|toluene||3000|ppm|dermal vapor|dermal|4 hr|||||
+1280||27|20|perchloroethylene||12500|ppm|dermal vapor|dermal|4 hr|||||
+1281||27|12|benzene|127787.32106339469|40000|ppm|dermal vapor|dermal|4 hr|||||
+1282||27|21|halothane||50000|ppm|dermal vapor|dermal|4 hr|||||
+1283||27|22|hexane||60000|ppm|dermal vapor|dermal|4 hr|||||
+1284||27|23|isoflurane||50000|ppm|dermal vapor|dermal|4 hr|||||
+1285||41|16|methanol|102|102|mg/m^3|inhalation|inhalation|8 hr|||||
+1286||41|16|methanol|205|205|mg/m^3|inhalation|inhalation|8 hr|||||
+1287||41|16|methanol|300|300|mg/m^3|inhalation|inhalation|8 hr|||||
+1288||9|11|trichloroethylene||100|ppm|inhalation|inhalation|4 hr|||||
+1289||5|19|toluene||100|ppm|inhalation|inhalation|2 hr|||||
+1290||29|11|trichloroethylene|7.6|7.6|mg/kg|gavage|oral|||water||not fasted|
+1291||7|14|styrene||80|ppm|inhalation|inhalation|6 hr|||||
+1292||7|14|styrene||80|ppm|inhalation|inhalation|24 hr|||||
+1293||7|14|styrene||1200|ppm|inhalation|inhalation|6 hr|||||
+1295||7|14|styrene||200|ppm|inhalation|inhalation|6 hr|||||
+1297||7|14|styrene||600|ppm|inhalation|inhalation|6 hr|||||
+1299||37|14|styrene||99|ppm|inhalation|inhalation|7 hr|||||
+1300||37|14|styrene||51|ppm|inhalation|inhalation|1 hr|||||
+1301||37|14|styrene||216|ppm|inhalation|inhalation|1 hr|||||
+1302||37|14|styrene||376|ppm|inhalation|inhalation|1 hr|||||
+1303||3|20|tetrachloroethylene||72|ppm|inhalation|inhalation|4 hr|||||
+1304||3|20|tetrachloroethylene||144|ppm|inhalation|inhalation|4 hr|||||
+1305||3|20|tetrachloroethylene||142|ppm|inhalation|inhalation|4 hr|||||
+1306||2|24|methylchloroform||72|ppm|inhalation|inhalation|4 hr||||not fasted|
+1307||2|24|methylchloroform||142|ppm|inhalation|inhalation|4 hr||||not fasted|
+1308||2|24|methylchloroform||70|ppm|inhalation|inhalation|4 hr||||not fasted|
+1309||2|24|methylchloroform||145|ppm|inhalation|inhalation|4 hr||||not fasted|
+1310||4|20|tetrachloroethylene|500|500|mg/kg|gavage|oral||1|corn oil||12 hr prior, 2 after|
+1311||4|20|tetrachloroethylene||600|ppm|inhalation|inhalation|6 hr|||||
+1312||34|9|methylene chloride||100000|ppm|dermal vapor|dermal|4 hr|||||
+1313||34|9|methylene chloride||60000|ppm|dermal vapor|dermal|4 hr|||||
+1314||34|9|methylene chloride||30000|ppm|dermal vapor|dermal|4 hr|||||
+1315||34|25|dibromomethane|71096.11451942741|10000|ppm|dermal vapor|dermal|4 hr|||||
+1316||34|25|dibromomethane|35548.05725971371|5000|ppm|dermal vapor|dermal|4 hr|||||
+1317||34|25|dibromomethane|7109.61145194274|1000|ppm|dermal vapor|dermal|4 hr|||||
+1318||34|25|dibromomethane|3554.80572597137|500|ppm|dermal vapor|dermal|4 hr|||||
+1319||35|9|methylene chloride||350|ppm|inhalation|inhalation|6 hr|||||
+1320||35|9|methylene chloride||100|ppm|inhalation|inhalation|6 hr|||||
+1321||43|26|acrylonitrile|3.4|3.4|mg/kg|iv|iv||||||
+1322||43|26|acrylonitrile|47|47|mg/kg|iv|iv||||||
+1323||43|26|acrylonitrile|55|55|mg/kg|iv|iv||||||
+1324||43|26|acrylonitrile|84|84|mg/kg|iv|iv||||||
+1325||30|9|dichloromethane|10|10|mg/kg|iv|iv||1||||
+1326||30|9|dichloromethane|50|50|mg/kg|iv|iv||1||||
+1327||30|9|dichloromethane|1000|1000|mg/kg|gavage|oral||1|corn oil||not fasted|
+1328||30|9|dichloromethane|50|50|mg/kg|gavage|oral||1|corn oil||not fasted|
+1329||30|9|dichloromethane|10|10|mg/kg|gavage|oral||1|corn oil||not fasted|
+1330||30|9|dichloromethane|50|50|mg/kg|gavage|oral||1|water||not fasted|
+1331||52|27|tert-amyl methyl ether||2500|ppm|inhalation|inhalation|6 hr|||||
+1332||52|27|tert-amyl methyl ether||500|ppm|inhalation|inhalation|6 hr|||||
+1333||52|27|tert-amyl methyl ether||100|ppm|inhalation|inhalation|6 hr|||||
+1334||45|11|trichloroethylene|2000|2000|mg/kg|oral|oral||1|corn oil|0.5 mL|not fasted|
+1335||45|11|trichloroethylene|1200|1200|mg/kg|oral|oral||1|corn oil|0.5 mL|not fasted|
+1336||45|11|trichloroethylene|600|600|mg/kg|oral|oral||1|corn oil|0.5 mL|not fasted|
+1337||45|11|trichloroethylene|300|300|mg/kg|oral|oral||1|corn oil|0.5 mL|not fasted|
+1338||21|28|1,2-dichloropropane|462.0858895705522|100|ppm|inhalation|inhalation|6 hr|||||
+1339||21|28|1,2-dichloropropane|231.0429447852761|50|ppm|inhalation|inhalation|6 hr|||||
+1340||21|28|1,2-dichloropropane|23.104294478527606|5|ppm|inhalation|inhalation|6 hr|||||
+1343||51|29|methyl tert-butyl ether||4.5|ppm|inhalation|inhalation|4 hr|||||
+1344||51|29|methyl tert-butyl ether||38.7|ppm|inhalation|inhalation|4 hr|||||
+1345||51|29|methyl tert-butyl ether|0.067114|5|mg|ingestion|oral||1|100 mL of tap water||not fasted|
+1346||51|29|methyl tert-butyl ether|0.199052|15|mg|ingestion|oral||1|100 mL of tap water||not fasted|
+1348||51|29|methyl tert-butyl ether||4.5|ppm|inhalation|inhalation|4 hr|||||
+1350||51|30|ethyl tert-butyl ether||4.5|ppm|inhalation|inhalation|4 hr|||||
+1351||51|30|ethyl tert-butyl ether||40.6|ppm|inhalation|inhalation|4 hr|||||
+1352||51|30|ethyl tert-butyl ether||40.6|ppm|inhalation|inhalation|4 hr|||||
+1353||51|30|ethyl tert-butyl ether||4.5|ppm|inhalation|inhalation|4 hr|||||
+1354||51|27|tert-amyl methyl ether||3.8|ppm|inhalation|inhalation|4 hr|||||
+1355||51|27|tert-amyl methyl ether||38.4|ppm|inhalation|inhalation|4 hr|||||
+1356||51|27|tert-amyl methyl ether|0.067114|5|mg|ingestion|oral||1|100 mL of tap water||not fasted|
+1357||51|27|tert-amyl methyl ether|0.201342|15|mg|ingestion|oral||1|100 mL of tap water||not fasted|
+1364||55|29|methyl tert-butyl ether||25|ppm|inhalation|inhalation|4 hr|||||
+1365||55|29|methyl tert-butyl ether||75|ppm|inhalation|inhalation|4 hr|||||
+1366||55|27|tert-amyl methyl ether||15|ppm|inhalation|inhalation|4 hr|||||
+1367||55|27|tert-amyl methyl ether||50|ppm|inhalation|inhalation|4 hr|||||
+1368||13|12|benzene|3194.683026584867|1000|ppm|inhalation|inhalation|2 hr|||||
+1369||13|12|benzene|79.86707566462168|25|ppm|inhalation|inhalation|2 hr|||||
+1370||8|11|trichloroethylene||54|ppm|inhalation|inhalation|8 hr|||||
+1371||8|11|trichloroethylene||97|ppm|inhalation|inhalation|8 hr|||||
+1375||11|11|trichloroethylene||1681|mg|inhalation|inhalation|2 hr - 20 min|||||
+1376||11|11|trichloroethylene||1348|mg|inhalation|inhalation|2 hr - 20 min|||||
+1377||11|11|trichloroethylene||3907|mg|inhalation|inhalation|2 hr - 20 min|||||
+1378||12|11|trichloroethylene||100|ppm|inhalation|inhalation|6 hr|1/d for 5 d||||
+1380||39|24|methyl chloroform||350|ppm|inhalation|inhalation|6 hr|1|||not fasted|
+1381||39|24|methyl chloroform||35|ppm|inhalation|inhalation|6 hr|1|||not fasted|
+1383||44|19|toluene|200|200|mg/m^3|inhalation|inhalation|2 hr|1||||
+1385||48|11|trichloroethylene||100|ppm|inhalation|inhalation|4 hr|1||||
+1386||48|11|trichloroethylene||50|ppm|inhalation|inhalation|4 hr|1||||
+1390||5|19|toluene||100|ppm|hand immersion|dermal|30 min|||||
+1391||47|11|trichloroethene||100|ppmv|inhalation|inhalation|240 min|1||||
+1392||17|16|methanol||78|ppm|inhalation|inhalation|8 hr|||||
+1393||17|16|methanol||158|ppm|inhalation|inhalation|8 hr|||||
+1394||17|16|methanol||231|ppm|inhalation|inhalation|8 hr|||||
+1412||192|68|2,4-D|0.20467|0.20467|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1415||192|68|2,4-D|1.043|1.043|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1417||192|83|Alachlor|1.0|1.0|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1420||192|83|Alachlor|5.2|5.2|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1423|193|192|84|Alprazolam|1.25|1.25|mg/kg|iv|iv|||5 mg dissolved in 50 uL of 1.2N HCL diluted with 0.9% NaCl||not fasted|
+1424|193|192|84|Alprazolam|7|7|mg/kg|po|oral|||5 mg dissolved in 50 uL of 1.2N HCL diluted with 0.9% NaCl|1 mL/kg|not fasted|
+1425|193|192|84|Alprazolam|12.5|12.5|mg/kg|po|oral|||5 mg dissolved in 50 uL of 1.2N HCL diluted with 0.9% NaCl|1 mL/kg|not fasted|
+1426|197|192|85|Antipyrine|15.0000000000|15.0000000000|mg/kg|iv|iv|||||not fasted|
+1427||192|86|Bensulide|5.18|5.18|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1430||192|86|Bensulide|1.0|1.0|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1433||192|86|Bensulide|5.0|5.0|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1434||192|86|Bensulide|1.0|1.0|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1435||192|87|Bisphenol A|0.6000000000|0.6000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1436||192|88|Boscalid|5.0000000000|5.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1437||192|88|Boscalid|1.0000000000|1.0000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1438|198|192|89|Bosentan|1.0000000000|1.0000000000|mg/kg|iv|iv|||sodium salt dissolved in physiological saline||overnight|
+1439|198|192|89|Bosentan|10.0000000000|10.0000000000|mg/kg|po|oral|||microsuspension in 7.5% modified gelatin||overnight|
+1440||192|90|Carbaryl|5.0000000000|5.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1441||192|90|Carbaryl|1.0000000000|1.0000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1442|201|192|91|Carbendazim|1000.0000000000|1000.0000000000|mg/kg|po|oral|||1 mL saline, 50 mg [14C] carbendazim dissolved by adding concentrations HCl (1:20, v/v) warmed to 37 degrees C||overnight|
+1443||192|92|Chloridazon|0.80|0.80|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1446||192|92|Chloridazon|4.17|4.17|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1449|202|192|93|Chlorpyrifos|5.0000000000|5.0000000000|mg/kg|po|oral|||corn oil||16 h|
+1450|202|192|93|Chlorpyrifos|10.0000000000|10.0000000000|mg/kg|po|oral|||corn oil||16 h|
+1451|202|192|93|Chlorpyrifos|50.0000000000|50.0000000000|mg/kg|po|oral|||corn oil||16 h|
+1452|202|192|93|Chlorpyrifos|100.0000000000|100.0000000000|mg/kg|po|oral|||corn oil||16 h|
+1453||192|94|Cyclanilide|1.0000000000|1.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1454||192|94|Cyclanilide|0.2000000000|0.2000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1455|203|192|95|Cyclosporin A|5.9000000000|5.9000000000|mg/kg|iv|iv|||Sandimmun|||
+1456|204|192|95|Cyclosporin A|6.0000000000|6.0000000000|mg/kg|iv|iv|||Cremophor EL; Sigma, St Louis, MO (35:65)|||
+1457||192|96|Diazinon-o-analog|1.02|1.02|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1460||192|96|Diazinon-o-analog|5.02|5.02|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1463|206|192|97|Diclofenac|18.0000000000|18.0000000000|mg/kg|po|oral|||saline||12 h|
+1464|207|192|98|Diltiazem|20.0000000000|20.0000000000|mg/kg|iv|iv|||||not fasted|
+1465|207|192|98|Diltiazem|20.0000000000|20.0000000000|mg/kg|po|oral|||||not fasted|
+1466||192|99|Dimethenamid|5.0000000000|5.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1467||192|99|Dimethenamid|1.0000000000|1.0000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1468||192|100|Etoxazole|2.0000000000|2.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1469||192|100|Etoxazole|0.4000000000|0.4000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1470||192|101|Fenarimol|2.0000000000|2.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1471||192|101|Fenarimol|0.4000000000|0.4000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1472||192|102|Flufenacet|1.0|1.0|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1475||192|102|Flufenacet|5.2|5.2|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1478||192|103|Formetanate hydrochloride|5.0000000000|5.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1479||192|103|Formetanate hydrochloride|1.0000000000|1.0000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1480|209|192|97|Tamoxifen citrate|60.0000000000|60.0000000000|mg/kg|iv|iv||||||
+1481|210|192|104|Ibuprofen|2.5000000000|2.5000000000|mg/kg|iv|iv|||||16 hr|
+1482|210|192|104|Ibuprofen|25.0000000000|25.0000000000|mg/kg|iv|iv|||||16 hr|
+1483||192|105|Imazalil|5.0000000000|5.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1484||192|105|Imazalil|1.0000000000|1.0000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1485||192|106|Imidacloprid|5.0000000000|5.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1486||192|106|Imidacloprid|5.0000000000|5.0000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1487|212|192|107|Imipramine|10.0000000000|10.0000000000|mg/kg|iv|iv|||||not fasted|
+1488|211|192|107|Imipramine|50.0000000000|50.0000000000|mg/kg|po|oral|||1% aqueous solution of carboxymethyl cellulose||18 h|
+1489|216|192|108|Metoprolol|15.0000000000|15.0000000000|mg/kg|po|oral|||methanol|0.2 mg free base/mL|12 h|
+1490|217|192|109|Midazolam|5.0000000000|5.0000000000|mg/kg|iv|iv|||5 mg/ml in 0.9% saline, pH 3.5||Kotegawa et al., 1998,1999; Laurijssens and Greenblatt, 2002|
+1491|217|192|109|Midazolam|15.0000000000|15.0000000000|mg/kg|po|oral|||25 mg/ml in 0.9% saline, pH 3.5||Kotegawa et al., 1998,1999; Laurijssens and Greenblatt, 2002|
+1492|219|192|110|Nilvadipine|0.1000000000|0.1000000000|mg/kg|iv|iv||||||
+1493|219|192|110|Nilvadipine|10.0000000000|10.0000000000|mg/kg|po|oral|||||overnight|
+1494||192|111|Novaluron|2.0000000000|2.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1495||192|111|Novaluron|0.4000000000|0.4000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1496|220|192|112|Ondansetron|1.0000000000|1.0000000000|mg/kg|iv|iv||||||
+1497|220|192|112|Ondansetron|4.0000000000|4.0000000000|mg/kg|iv|iv||||||
+1498|220|192|112|Ondansetron|8.0000000000|8.0000000000|mg/kg|iv|iv||||||
+1499|220|192|112|Ondansetron|20.0000000000|20.0000000000|mg/kg|iv|iv||||||
+1500|220|192|112|Ondansetron|4.0000000000|4.0000000000|mg/kg|po|oral||||5 mL/kg|not fasted|
+1501|220|192|112|Ondansetron|8.0000000000|8.0000000000|mg/kg|po|oral||||5 mL/kg|not fasted|
+1502|220|192|112|Ondansetron|20.0000000000|20.0000000000|mg/kg|po|oral||||5 mL/kg|not fasted|
+1503||192|51|Pentadecafluorooctanoic acid|1.0000000000|1.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1504||192|51|Pentadecafluorooctanoic acid|0.2000000000|0.2000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1505||192|113|Permethrin|5.0000000000|5.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1506||192|113|Permethrin|1.0000000000|1.0000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1507|221|192|5|Phenacetin|23.0000000000|23.0000000000|mg/kg|iv|iv||||||
+1508|222|192|114|Phenytoin|40.0000000000|40.0000000000|mg/kg|iv|iv|||dissolved in water alkalinized with 0.1 N sodium hydroxide||not fasted|
+1509|223|192|114|Phenytoin|25.0000000000|25.0000000000|mg/kg|iv|iv|1 min||distilled water, min amt NaOH, pH 9|0.6 mL|not fasted|
+1510|223|192|114|Phenytoin|25.0000000000|25.0000000000|mg/kg|po|oral|||distilled water, min amt NaOH, pH 9|1.5 mL|not fasted|
+1511||192|115|Propamocarb hydrochloride|5.0000000000|5.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1512||192|115|Propamocarb hydrochloride|1.0000000000|1.0000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1513||192|116|Propyzamide|0.608|0.608|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1514||192|116|Propyzamide|0.6|0.6|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1516||192|116|Propyzamide|3.2120000000|3.2120000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1519||192|116|Propyzamide|3.0000000000|3.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1521||192|117|Pyrithiobac sodium|0.203|0.203|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1524||192|117|Pyrithiobac sodium|1.037|1.037|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1527||192|118|Resmethrin|4.0000000000|4.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1528||192|118|Resmethrin|0.8000000000|0.8000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1529||192|119|S-Bioallethrin|4.0000000000|4.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1530||192|119|S-Bioallethrin|0.8000000000|0.8000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1531||192|120|Simazine|2.0000000000|2.0000000000|mg/kg|po|oral|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1532||192|120|Simazine|0.4000000000|0.4000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1533|226|192|121|Tolbutamide|10.0000000000|10.0000000000|mg/kg|iv|iv|||||not fasted|
+1534|225|192|121|Tolbutamide|20.0000000000|20.0000000000|mg/kg|po|oral|||0.02 M sodium hydroxide |3 mg/mL|overnight, 5% glucose in phosphoric acid 1 hr before exposure|
+1535||192|122|Triclosan|1.0000000000|1.0000000000|mg/kg|iv|iv|||ethanol/Kolliphor/saline (10:30:60; v/v/v) or saline (water soluble chemicals)||not fasted|
+1536|228|192|123|Valproic acid|200.0000000000|200.0000000000|mg/kg|po|oral|||||not reported|
+1537|228|192|123|Valproic acid|600.0000000000|600.0000000000|mg/kg|po|oral|||||not reported|
+1538|227|192|123|Valproic acid|10.0000000000|10.0000000000|mg/kg|iv|iv|||||16-18 hr|assuming controls compared to pregnant are all female
+1539|227|192|123|Valproic acid|50.0000000000|50.0000000000|mg/kg|iv|iv|||||16-18 hr|assuming controls compared to pregnant are all female
+1540|227|192|123|Valproic acid|100.0000000000|100.0000000000|mg/kg|iv|iv|||||16-18 hr|assuming controls compared to pregnant are all female
+1667||129|31|2-Hydroxy-4-methoxybenzophenone|500|500|mg/kg|Gavage|oral|||||not reported|
+1668||129|31|2-Hydroxy-4-methoxybenzophenone|50|50|mg/kg|IV|iv||||||
+1669||129|31|2-Hydroxy-4-methoxybenzophenone|100|100|mg/kg|Gavage|oral|||||not reported|
+1670||129|31|2-Hydroxy-4-methoxybenzophenone|250|250|mg/kg|Gavage|oral|||||not reported|
+1671||129|31|2-Hydroxy-4-methoxybenzophenone|8|8|mg/kg|IV|iv||||||
+1672||130|32|546-80-5|1.6|1.6|mg/kg|IV|iv||||||
+1673||131|33|678-39-7|12|12|mg/kg|IV|iv||||||
+1674||131|33|678-39-7|40|40|mg/kg|IV|iv||||||
+1675||130|34|76231-76-0|3.0|3.0|mg/kg|IV|iv||||||
+1676||130|34|alpha/beta-Thujone mixture|25|25|mg/kg|Gavage|oral|||||not reported|
+1677||130|34|alpha/beta-Thujone mixture|50|50|mg/kg|Gavage|oral|||||not reported|
+1678||132|35|Bromochloroacetic acid|40|40|mg/kg|Gavage|oral|||||not reported|
+1679||132|35|Bromochloroacetic acid|100|100|mg/kg|Gavage|oral|||||not reported|
+1680||133|36|dibromoacetic acid|40|40|mg/kg|Gavage|oral|||||not reported|
+1681||133|36|dibromoacetic acid|100|100|mg/kg|Gavage|oral|||||not reported|
+1682||134|37|dichloroacetic acid|40|40|mg/kg|gavage|oral|||||not reported|
+1683||134|37|dichloroacetic acid|100|100|mg/kg|gavage|oral|||||not reported|
+1684||135|38|Di-n-butyl phthalate|20|20|mg/kg|IV|iv||||||
+1685||135|38|Di-n-butyl phthalate|50|50|mg/kg|Gavage|oral|||||not reported|
+1686||135|38|Di-n-butyl phthalate|100|100|mg/kg|Gavage|oral|||||not reported|
+1687||135|38|Di-n-butyl phthalate|200|200|mg/kg|Gavage|oral|||||not reported|
+1689||131|33|Fluorotelomer alcohol 8+2|12|12|mg/kg|Gavage|oral|||||not reported|
+1690||131|33|Fluorotelomer alcohol 8+2|24|24|mg/kg|Gavage|oral|||||not reported|
+1691||131|33|Fluorotelomer alcohol 8+2|48|48|mg/kg|Gavage|oral|||||not reported|
+1692||131|33|Fluorotelomer alcohol 8+2|40|40|mg/kg|Gavage|oral|||||not reported|
+1693||131|33|Fluorotelomer alcohol 8+2|80|80|mg/kg|Gavage|oral|||||not reported|
+1694||131|33|Fluorotelomer alcohol 8+2|160|160|mg/kg|Gavage|oral|||||not reported|
+1695||136|39|L-Ephedrine|6.25|6.25|mg/kg|Gavage|oral|||||not reported|
+1696||136|39|L-Ephedrine|12.5|12.5|mg/kg|Gavage|oral|||||not reported|
+1697||136|39|L-Ephedrine|25|25|mg/kg|Gavage|oral|||||not reported|
+1698||136|40|Ma Huang|312.5|312.5|mg/kg|Gavage|oral|||||not reported|
+1700||136|41|Methyl cellulose|0|0|mg/kg|Gavage|oral|||||not reported|
+1701||137|42|Nitrite|20|20|mg/kg|IV|iv||||||
+1702||137|42|Nitrite|40|40|mg/kg|Gavage|oral|||||not reported|
+1703||137|42|Nitrite|80|80|mg/kg|Gavage|oral|||||not reported|
+1704||138|43|Pentachloroanisole|10|10|mg/kg|IV|iv||||1 mL/kg||
+1705||138|43|Pentachloroanisole|10|10|mg/kg|Gavage|oral|||||not reported|
+1706||138|43|Pentachloroanisole|20|20|mg/kg|Gavage|oral|||||not reported|
+1707||138|43|Pentachloroanisole|40|40|mg/kg|Gavage|oral|||||not reported|
+1708||138|43|Pentachloroanisole|80|80|mg/kg|Gavage|oral|||||not reported|
+1709||139|44|Phenolphthalein|25|25|mg/kg|IV|iv||||||
+1710||140|45|Primidone|30|30|mg/kg|Gavage|oral|||||not reported|
+1711||140|45|Primidone|80|80|mg/kg|Gavage|oral|||||not reported|
+1712||140|45|Primidone|130|130|mg/kg|Gavage|oral|||||not reported|
+1713||141|46|Tamoxifen citrate|100|100|ug/mL|Gavage|oral|||||not reported|
+1714||141|46|Tamoxifen|300|300|ug/mL|Gavage|oral|||||not reported|
+1715||142|47|Tamoxifen citrate|0.3|0.3|mg/kg|IV|iv||||||
+1717||141|47|Tamoxifen citrate|300|300|ug/mL|Gavage|oral|||||not reported|
+1718||143|48|perfluorohexane-1-sulphonic acid – potassium salt|4|4|mg/kg|IV|iv||||||
+1719||143|48|Perfluorohexane-1-sulphonic acid – potassium salt|4|4|mg/kg|Gavage|oral|||||not reported|
+1720||143|48|Perfluorohexane-1-sulphonic acid – potassium salt|16|16|mg/kg|Gavage|oral|||||not reported|
+1721||143|48|Perfluorohexane-1-sulphonic acid – potassium salt|32|32|mg/kg|Gavage|oral|||||not reported|
+1722||143|48|Perfluorohexane-1-sulphonic acid – potassium salt|4|4|mg/kg|Repeat IV|||||||
+1723||144|49|Potassium Perfluorobutane Sulfonate|4|4|mg/kg|IV|iv||||||
+1724||144|49|Potassium Perfluorobutane Sulfonate|4|4|mg/kg|Gavage|oral|||||not reported|
+1725||144|49|Potassium Perfluorobutane Sulfonate|20|20|mg/kg|Gavage|oral|||||not reported|
+1726||144|49|Potassium Perfluorobutane Sulfonate|100|100|mg/kg|Gavage|oral|||||not reported|
+1727||145|50|Perfluorohexanoic Acid|40|40|mg/kg|IV|iv||||||
+1728||145|50|Perfluorohexanoic Acid|40|40|mg/kg|Gavage|oral|||||not reported|
+1729||145|50|Perfluorohexanoic Acid|80|80|mg/kg|Gavage|oral|||||not reported|
+1730||145|50|Perfluorohexanoic Acid|160|160|mg/kg|Gavage|oral|||||not reported|
+1731||145|50|Perfluorohexanoic Acid|40|40|mg/kg|Repeat IV|||||||
+1732||146|51|Perfluorooctanoic acid|6|6|mg/kg|IV|iv||||||
+1733||146|51|Perfluorooctanoic acid|40|40|mg/kg|IV|iv||||||
+1734||146|51|Perfluorooctanoic acid|6|6|mg/kg|Gavage|oral|||||not reported|
+1735||146|51|Perfluorooctanoic acid|12|12|mg/kg|Gavage|oral|||||not reported|
+1736||146|51|Perfluorooctanoic acid|48|48|mg/kg|Gavage|oral|||||not reported|
+1737||146|51|Perfluorooctanoic acid|40|40|mg/kg|Gavage|oral|||||not reported|
+1738||146|51|Perfluorooctanoic acid|80|80|mg/kg|Gavage|oral|||||not reported|
+1739||146|51|Perfluorooctanoic acid|320|320|mg/kg|Gavage|oral|||||not reported|
+1740||147|52|Perfluorodecanoic acid|2|2|mg/kg|IV|iv||||||
+1741||147|52|Perfluorodecanoic acid|2|2|mg/kg|Gavage|oral|||||not reported|
+1742||147|52|Perfluorodecanoic acid|10|10|mg/kg|Gavage|oral|||||not reported|
+1743||147|52|Perfluorodecanoic acid|20|20|mg/kg|Gavage|oral|||||not reported|
+1744||148|53|Perfluorooctane Sulfonate|2|2|mg/kg|IV|iv||||||
+1745||148|53|Perfluorooctane Sulfonate|2|2|mg/kg|Gavage|oral|||||not reported|
+1746||148|53|Perfluorooctane Sulfonate|20|20|mg/kg|Gavage|oral|||||not reported|
+1747||131|33|Fluorotelomer alcohol 8+2|12|12|mg/kg|IV|iv||||||
+1748||131|33|Fluorotelomer alcohol 8+2|40|40|mg/kg|IV|iv||||||
+1749||162|54|Pyridine|5|5|mg/kg|IV|iv||||||
+1750||149|54|Pyridine|10|10|mg/kg|IV|iv||||||
+1751||162|54|Pyridine|5|5|mg/kg|Gavage|oral|||||not reported|
+1752||162|54|Pyridine|25|25|mg/kg|Gavage|oral|||||not reported|
+1753||149|54|Pyridine|10|10|mg/kg|Gavage|oral|||||not reported|
+1754||162|54|Pyridine|100|100|mg/kg|Gavage|oral|||||not reported|
+1755||149|54|Pyridine|50|50|mg/kg|Gavage|oral|||||not reported|
+1756||149|54|Pyridine|200|200|mg/kg|Gavage|oral|||||not reported|
+1757||150|55|2-methylimidazole|10|10|mg/kg|IV|iv||||||
+1758||151|56|4-methylimidazole|10|10|mg/kg|IV|iv||||||
+1759||152|57|Tetralin|2|2|mg/kg|IV|iv||||||
+1760||152|57|Tetralin|20|20|mg/kg|IV|iv||||||
+1761||134|37|dichloroacetic acid|10|10|mg/kg|IV|iv||||||
+1762||134|37|dichloroacetic acid|60|60|mg/kg|IV|iv||||||
+1763||153|36|Dibromoacetic acid|25|25|mg/kg|IV|iv||||||
+1764||154|58|Bromodichloromethane|10|10|mg/kg|IV|iv||||||
+1765||132|35|Bromochloroacetic acid|10|10|mg/kg|IV|iv||||||
+1766||132|35|Bromochloroacetic acid|80|80|mg/kg|IV|iv||||||
+1767||155|59|Bis 2-Chloroethoxy Methane|20|20|mg/kg|IV|iv||||||
+1768||155|59|Bis 2-Chloroethoxy Methane|40|40|mg/kg|IV|iv||||||
+1769||155|60|Thiodiglycolic Acid|20|20|mg/kg|IV|iv||||||
+1770||156|61|Glyoxylic acid monohydrate|50|50|mg/kg|IV|iv||||||
+1771||157|62|Isoeugenol|17|17|mg/kg|IV|iv||||||
+1772||158|63|Methyleugenol |37|37|mg/kg|IV|iv||||||
+1773||159|64|Oxazepam|20|20|mg/kg|IV|iv||||||
+1774||160|65|Emodin|5|5|mg/kg|IV|iv||||||
+1775||161|66|Pentachlorophenol, purified|5|5|mg/kg|IV|iv||||1 mg/kg||
+1776||161|66|Pentachlorophenol, purified|18.75|18.75|mg/kg|Gavage|oral|||||not reported|
+1777||161|66|Pentachlorophenol, purified|75|75|mg/kg|Gavage|oral|||||not reported|
+1778||161|66|Pentachlorophenol, purified|9.5|9.5|mg/kg|Gavage|oral|||||not reported|
+1779||161|66|Pentachlorophenol, purified|38|38|mg/kg|Gavage|oral|||||not reported|
+1780||161|66|Pentachlorophenol, purified|150|150|mg/kg|Gavage|oral|||||not reported|
+1781||162|54|Pyridine|0.5|0.5|mg/kg|IV|iv||||||
+1782||162|54|Pyridine|2.5|2.5|mg/kg|IV|iv||||||
+1783||163|67|Gemfibrozil|4.29|4.29|mg/kg|IV|iv||||||
+1784||164|68|2,4-Dichlorophenoxyacetic acid|40|40|mg/kg|Gavage|oral|||||not reported|
+1785||164|68|2,4-Dichlorophenoxyacetic acid|7.0|7.0|mg/kg|Gavage|oral|||||not reported|
+1786||164|68|2,4-Dichlorophenoxyacetic acid|1.0|1.0|mg/kg|IV|iv||||||
+1787||164|68|2,4-Dichlorophenoxyacetic acid|2.0|2.0|mg/kg|Gavage|oral|||||not reported|
+1788||164|68|2,4-Dichlorophenoxyacetic acid|8.0|8.0|mg/kg|IV|iv||||||
+1789||164|68|2,4-Dichlorophenoxyacetic acid|2.0|2.0|mg/kg|IV|iv||||||
+1790||164|68|2,4-Dichlorophenoxyacetic acid|1.5|1.5|mg/kg|Gavage|oral|||||not reported|
+1791||164|68|2,4-Dichlorophenoxyacetic acid|3.56|3.56|mg/kg|Gavage|oral|||||not reported|
+1792||164|68|2,4-Dichlorophenoxyacetic acid|1.0|1.0|mg/kg|Gavage|oral|||||not reported|
+1793||164|68|2,4-Dichlorophenoxyacetic acid|5.2|5.2|mg/kg|Gavage|oral|||||not reported|
+1794||164|68|2,4-Dichlorophenoxyacetic acid|8.0|8.0|mg/kg|Gavage|oral|||||not reported|
+1795||165|69|DL-Camphor|6|6|mg/kg|IV|iv||||||
+1796||166|70|Anthraquinone|2|2|mg/kg|IV|iv||||||
+1797||167|71|Free Carbon disulfide|10|10|mg/kg|IV|iv||||||
+1798||167|71|Free Carbon disulfide|50|50|mg/kg|IV|iv||||||
+1799||168|72|Oxymetholone|20|20|mg/kg|IV|iv||||||
+1800||169|73|Naphthalene|1|1|mg/kg|IV|iv||||||
+1801||169|73|Naphthalene|3|3|mg/kg|IV|iv||||||
+1802||169|73|Naphthalene|10|10|mg/kg|IV|iv||||||
+1803||171|74|Benzophenone|15|15|mg/kg|Gavage|oral|||||not reported|
+1804||171|74|Benzophenone|10|10|mg/kg|Gavage|oral|||||not reported|
+1805||171|74|Benzophenone|15|15|mg/kg|IV|iv||||||
+1806||171|74|Benzophenone|30|30|mg/kg|Gavage|oral|||||not reported|
+1807||171|74|Benzophenone|60|60|mg/kg|Gavage|oral|||||not reported|
+1808||171|74|Benzophenone|2.5|2.5|mg/kg|IV|iv||||||
+1809||171|74|Benzophenone|2.5|2.5|mg/kg|Gavage|oral|||||not reported|
+1810||171|74|Benzophenone|5|5|mg/kg|Gavage|oral|||||not reported|
+1811||172|75|Formamide|10|10|mg/kg|IV|iv||||||
+1812||172|75|Formamide|30|30|mg/kg|IV|iv||||||
+1813||172|75|Formamide|90|90|mg/kg|IV|iv||||||
+1814||173|76|Wyeth-14643|2.0|2.0|mg/kg|IV|iv||||||
+1815||133|36|Dibromoacetic acid|10|10|mg/kg|IV|iv||||||
+1816||133|36|Dibromoacetic acid|110|110|mg/kg|IV|iv||||||
+1817||174|77|Hexachlorobenzene|0.1|0.1|mg/kg|IV|iv||||||
+1818||174|77|Hexachlorobenzene|1|1|mg/kg|IV|iv||||||
+1819||175|78|2-Methyltetrahydrofuran|40|40|mg/kg|IV|iv||||||
+1820||175|78|2-Methyltetrahydrofuran|2.5|2.5|mg/kg|IV|iv||||||
+1821||175|78|2-Methyltetrahydrofuran|10|10|mg/kg|IV|iv||||||
+1822||136|39|L-Ephedrine|6.25|6.25|mg/kg|IV|iv||||||
+1823||134|37|dichloroacetic acid|10|10|mg/kg|gavage|oral|||||not reported|
+1824||153|36|Dibromoacetic acid|25|25|mg/kg|Gavage|oral|||||not reported|
+1825||153|36|Dibromoacetic acid|50|50|mg/kg|Gavage|oral|||||not reported|
+1826||153|36|Dibromoacetic acid|125|125|mg/kg|Gavage|oral|||||not reported|
+1827||132|35|Bromochloroacetic acid|10|10|mg/kg|Gavage|oral|||||not reported|
+1828||130|32|alpha-Thujone|25|25|mg/kg|Gavage|oral|||||not reported|
+1829||130|32|alpha-Thujone|50|50|mg/kg|Gavage|oral|||||not reported|
+1830||157|62|Isoeugenol|17|17|mg/kg|Gavage|oral|||||not reported|
+1831||157|62|Isoeugenol|70|70|mg/kg|Gavage|oral|||||not reported|
+1832||157|62|Isoeugenol|140|140|mg/kg|Gavage|oral|||||not reported|
+1833||170|63|Methyleugenol|37|37|mg/kg|Gavage|oral|||||not reported|
+1834||170|63|Methyleugenol|75|75|mg/kg|Gavage|oral|||||not reported|
+1835||170|63|Methyleugenol|150|150|mg/kg|Gavage|oral|||||not reported|
+1836||159|64|Oxazepam|50|50|mg/kg|Gavage|oral|||||not reported|
+1837||159|64|Oxazepam|200|200|mg/kg|Gavage|oral|||||not reported|
+1838||159|64|Oxazepam|400|400|mg/kg|Gavage|oral|||||not reported|
+1839||160|65|Emodin|20|20|mg/kg|Gavage|oral|||||not reported|
+1840||160|65|Emodin|40|40|mg/kg|Gavage|oral|||||not reported|
+1841||160|65|Emodin|80|80|mg/kg|Gavage|oral|||||not reported|
+1842||176|79|1-Chloro-2-propanol|1.5|1.5|mg/kg|Gavage|oral|||||not reported|
+1843||176|79|1-Chloro-2-propanol|7.5|7.5|mg/kg|Gavage|oral|||||not reported|
+1844||176|79|1-Chloro-2-propanol|15|15|mg/kg|Gavage|oral|||||not reported|
+1845||163|67|Gemfibrozil|4.29|4.29|mg/kg|Gavage|oral|||||not reported|
+1846||163|67|Gemfibrozil|50|50|mg/kg|Gavage|oral|||||not reported|
+1847||163|67|Gemfibrozil|100|100|mg/kg|Gavage|oral|||||not reported|
+1848||166|70|Anthraquinone|40|40|mg/kg|Gavage|oral|||||not reported|
+1849||166|70|Anthraquinone|100|100|mg/kg|Gavage|oral|||||not reported|
+1850||166|70|Anthraquinone|400|400|mg/kg|Gavage|oral|||||not reported|
+1851||168|72|Oxymetholone|30|30|mg/kg|Gavage|oral|||||not reported|
+1852||168|72|Oxymetholone|120|120|mg/kg|Gavage|oral|||||not reported|
+1853||172|75|Formamide|36|36|mg/kg|Gavage|oral|||||not reported|
+1854||172|75|Formamide|300|300|mg/kg|Gavage|oral|||||not reported|
+1855||172|75|Formamide|600|600|mg/kg|Gavage|oral|||||not reported|
+1856||177|80|2,3,7,8-Tetrachlorodibenzo-p-dioxin|0.00005|0.00005|mg/kg|Gavage|oral|||||not reported|
+1857||177|80|2,3,7,8-Tetrachlorodibenzo-p-dioxin|0.0001|0.0001|mg/kg|Gavage|oral|||||not reported|
+1858||177|80|2,3,7,8-Tetrachlorodibenzo-p-dioxin|0.0002|0.0002|mg/kg|Gavage|oral|||||not reported|
+1859||177|80|2,3,7,8-Tetrachlorodibenzo-p-dioxin|0.0004|0.0004|mg/kg|Gavage|oral|||||not reported|
+1860||178|81|2,3,4,7,8-pentachlorodibenzofuran|6|6|mg/kg|Gavage|oral|||||not reported|
+1861||178|81|2,3,4,7,8-pentachlorodibenzofuran|200|200|mg/kg|Gavage|oral|||||not reported|
+1862||179|82|3,3',4,4',5-pentachlorobiphenyl|10|10|mg/kg|Gavage|oral|||||not reported|
+1863||179|82|3,3',4,4',5-pentachlorobiphenyl|1000|1000|mg/kg|Gavage|oral|||||not reported|
+1864||173|76|Wyeth-14643|1.0|1.0|mg/kg|Gavage|oral|||||not reported|
+1865||173|76|Wyeth-14643|2.0|2.0|mg/kg|Gavage|oral|||||not reported|
+1866||173|76|Wyeth-14643|5.0|5.0|mg/kg|Gavage|oral|||||not reported|
+1867||133|36|dibromoacetic acid|10|10|mg/kg|Gavage|oral|||||not reported|
+1868||180|77|Hexachlorobenzene|0|0|mg/kg|Gavage|oral|||||not reported|
+1869||180|77|Hexachlorobenzene|0.03|0.03|mg/kg|Gavage|oral|||||not reported|
+1870||180|77|Hexachlorobenzene|30|30|mg/kg|Gavage|oral|||||not reported|
+1871||174|77|Hexachlorobenzene|0.3|0.3|mg/kg|Gavage|oral|||||not reported|
+1872||175|78|2-Methyltetrahydrofuran|10|10|mg/kg|Gavage|oral|||||not reported|
+1873||175|78|2-Methyltetrahydrofuran|30|30|mg/kg|Gavage|oral|||||not reported|
+1874||175|78|2-Methyltetrahydrofuran|100|100|mg/kg|Gavage|oral|||||not reported|
+1875||175|78|2-Methyltetrahydrofuran|400|400|mg/kg|Gavage|oral|||||not reported|
+1928||129|31|2-Hydroxy-4-methoxybenzophenone|100|100|mg/kg|Gavage|oral|||||not reported|
+1929||141|47|Tamoxifen|300|300|mg/kg|IV|iv||||||
+1930||29|11|trichloroethylene||600.4|ppm|inhalation|inhalation|4 hr|||||
